@@ -142,7 +142,7 @@ node deploy-commands.js
 - Qeydiyyat statistikası `data/kayitlar.json` faylında saxlanılır
 - Botun bütün kanalları görmək və rolları idarə etmək icazəsi olmalıdır
 - İstədiyiniz kimi commands və events qovluqlarındaki faylların textlərini dəyişə bilərsiniz
-- Sual yarandıqda tunarcamalov@gmail.com mail adresimə yazabilərsiniz
+- Sual yarandıqda jamalovtunar@gmail.com mail adresimə yazabilərsiniz
 
 ## 🛠️ Xəta Həlli
 
