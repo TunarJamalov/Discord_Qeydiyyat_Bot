@@ -1,0 +1,14 @@
+{
+    "token": "BOT_TOKEN_BURAYA", 
+    "welcomeChannelID": "XOŞ_GƏLDİN_KANAL_ID",
+    "chatChannelID": "CHAT_KANAL_ID",
+    "logChannelID": "LOG_KANAL_ID",
+    "unregisteredRoleID": "QEYDİYYATSIZ_ROL_ID",
+    "botRoleID": "BOT_ROL_ID",
+    "maleRoleID": "KİŞİ_ROL_ID",
+    "femaleRoleID": "QADIN_ROL_ID",
+    "memberRoleID": "ÜZV_ROL_ID",
+    "registerChannelID": "QEYDİYYAT_KANAL_ID",
+    "clientId": "BOT_CLIENT_ID",
+    "guildId": "SERVER_ID"
+}
